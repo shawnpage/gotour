@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# emacs backup files
+*.go~
+
 # Folders
 _obj
 _test
